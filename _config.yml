@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /grandmaster/
 
 # Website info
 title: Léa's Travel Blog
@@ -67,10 +67,10 @@ feed:
 safe: False
 lsi: False
 username: firgaty
-repo: jasper2
+repo: leafleury.github.io
 branch: master
-relative_source: ../jasper2/
-destination: _site/
+relative_source: ../leafleury.github.io/
+destination: ../grandmaster
 production_url:  https://jekyller.github.io/jasper2/
 source_url:  https://github.com/jekyller/jasper2/
 
