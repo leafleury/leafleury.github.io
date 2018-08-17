@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-08-17T10:47:02+02:00</updated><id>/</id><title type="html">Léa’s Travel Blog</title><subtitle>Travels, stories and picture from London to Paris</subtitle><entry><title type="html">First test</title><link href="/test" rel="alternate" type="text/html" title="First test" /><published>2018-08-15T19:00:00+02:00</published><updated>2018-08-15T19:00:00+02:00</updated><id>/test</id><content type="html" xml:base="/test">&lt;h2 id=&quot;first&quot;&gt;First&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-08-17T15:59:08+02:00</updated><id>/</id><title type="html">Léa’s Travel Blog</title><subtitle>Travels, stories and picture from London to Paris</subtitle><entry><title type="html">Image</title><link href="/image" rel="alternate" type="text/html" title="Image" /><published>2018-08-15T20:00:00+02:00</published><updated>2018-08-15T20:00:00+02:00</updated><id>/image</id><content type="html" xml:base="/image">&lt;h1 id=&quot;image&quot;&gt;Image&lt;/h1&gt;
+
+&lt;p&gt;Here We’re going to test and see what an image looks like between text.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/bear.jpg&quot;&gt;&lt;img src=&quot;/assets/images/bear.jpg&quot; alt=&quot;BEAR&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And this is after the picture.&lt;/p&gt;</content><author><name>Léa Fleury</name></author><category term="tests" /><summary type="html">Image</summary></entry><entry><title type="html">Embeded Video</title><link href="/embeded-video" rel="alternate" type="text/html" title="Embeded Video" /><published>2018-08-15T19:00:00+02:00</published><updated>2018-08-15T19:00:00+02:00</updated><id>/embeded-video</id><content type="html" xml:base="/embeded-video">&lt;h1 id=&quot;title&quot;&gt;Title&lt;/h1&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-itZVX-SUkI&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Léa Fleury</name></author><category term="tests" /><summary type="html">Title</summary></entry><entry><title type="html">First test</title><link href="/test" rel="alternate" type="text/html" title="First test" /><published>2018-08-15T19:00:00+02:00</published><updated>2018-08-15T19:00:00+02:00</updated><id>/test</id><content type="html" xml:base="/test">&lt;h2 id=&quot;first&quot;&gt;First&lt;/h2&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut justo faucibus, auctor nisi a, dictum est. Aliquam arcu ex, pellentesque et ultrices eu, lacinia ac nibh. Sed nec pulvinar purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam elit mauris, porta quis enim vel, laoreet dapibus ante. In lobortis urna nec arcu pellentesque, ut tincidunt ligula sodales. Etiam nunc velit, ultricies at viverra vitae, sodales quis nisl. Vivamus interdum ipsum arcu, quis hendrerit diam laoreet non. Nunc maximus dignissim mattis. Mauris eget viverra augue. Donec vulputate eros vitae maximus mattis.&lt;/p&gt;
 
@@ -10,4 +18,127 @@
 
 &lt;p&gt;Suspendisse eget mi aliquet, dapibus sapien non, tincidunt ex. Nulla facilisi. Sed vulputate augue sed felis imperdiet vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam eu lorem vitae orci consequat pharetra quis a nibh. Sed in quam id nisl cursus tristique at vel lorem. Proin vestibulum viverra egestas. Donec eleifend, mi in faucibus consectetur, sapien purus porta tellus, eget fermentum felis nibh id urna. Phasellus ornare risus quam, at dictum odio condimentum vitae.&lt;/p&gt;
 
-&lt;p&gt;Vivamus id lacus eget lectus pulvinar sagittis vel et neque. Nam rhoncus arcu quis nibh molestie, eget pellentesque magna pellentesque. Nullam eget turpis ut arcu elementum sodales nec et tellus. Curabitur sodales enim a libero elementum, eu laoreet nisl imperdiet. Nullam et pellentesque turpis, tincidunt rhoncus nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam varius purus nec mauris tempor, dictum accumsan arcu aliquet.&lt;/p&gt;</content><author><name>Léa Fleury</name></author><category term="tests" /><summary type="html">First</summary></entry></feed>
+&lt;p&gt;Vivamus id lacus eget lectus pulvinar sagittis vel et neque. Nam rhoncus arcu quis nibh molestie, eget pellentesque magna pellentesque. Nullam eget turpis ut arcu elementum sodales nec et tellus. Curabitur sodales enim a libero elementum, eu laoreet nisl imperdiet. Nullam et pellentesque turpis, tincidunt rhoncus nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam varius purus nec mauris tempor, dictum accumsan arcu aliquet.&lt;/p&gt;</content><author><name>Léa Fleury</name></author><category term="tests" /><summary type="html">First</summary></entry><entry><title type="html">Gallery</title><link href="/gallery-test" rel="alternate" type="text/html" title="Gallery" /><published>2018-08-14T19:00:00+02:00</published><updated>2018-08-14T19:00:00+02:00</updated><id>/gallery-test</id><content type="html" xml:base="/gallery-test">&lt;h1 id=&quot;this-is-a-gallery&quot;&gt;This is a Gallery.&lt;/h1&gt;
+
+&lt;div id=&quot;image-gallery&quot;&gt;
+&lt;div id=&quot;image-gallery&quot; class=&quot;image-gallery&quot;&gt;
+  &lt;div id=&quot;gallery-sizer&quot; class=&quot;gallery-sizer&quot;&gt;&lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6013-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6013-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-6013-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-6013-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6013-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6088-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6088-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-6088-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-6088-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6088-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6011-4000x6000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6011-2828x4242.jpg 2828, //assets/photography/san-francisco/VS-2012-6011-1414x2121.jpg 1414, //assets/photography/san-francisco/VS-2012-6011-1999x2999.jpg 1999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6011-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6048-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6048-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-6048-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-6048-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6048-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6169-2573x3860.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6169-1414x2121.jpg 1414, //assets/photography/san-francisco/VS-2012-6169-2000x3000.jpg 2000, //assets/photography/san-francisco/VS-2012-6169-2573x3860.jpg 2573&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6169-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6057-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6057-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-6057-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-6057-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6057-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-5930-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-5930-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-5930-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-5930-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-5930-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6053-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6053-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-6053-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-6053-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6053-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6068-5854x3903.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6068-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-6068-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-6068-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6068-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6042-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6042-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-6042-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-6042-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6042-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-5900-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-5900-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-5900-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-5900-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-5900-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-5948-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-5948-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-5948-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-5948-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-5948-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-5970-3146x4719.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-5970-2828x4242.jpg 2828, //assets/photography/san-francisco/VS-2012-5970-1414x2121.jpg 1414, //assets/photography/san-francisco/VS-2012-5970-1999x2999.jpg 1999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-5970-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-6056-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-6056-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-6056-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-6056-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-6056-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;image-wrapper&quot;&gt;
+    &lt;a href=&quot;//assets/photography/san-francisco/VS-2012-5966-6000x4000.jpg&quot; data-responsive=&quot; //assets/photography/san-francisco/VS-2012-5966-4242x2828.jpg 4242, //assets/photography/san-francisco/VS-2012-5966-2121x1414.jpg 2121, //assets/photography/san-francisco/VS-2012-5966-2999x1999.jpg 2999&quot; class=&quot;image&quot;&gt;
+      &lt;img alt=&quot;&quot; src=&quot;//assets/photography/san-francisco/VS-2012-5966-thumbnail.jpg&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;script&gt;
+$(document).ready(function() {
+  var $gallery = $(&quot;#image-gallery&quot;).lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+
+// init isotope
+var $grid = $('#image-gallery').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer',
+  itemSelector: '.image-wrapper',
+  layoutMode: &quot;masonry&quot;
+});
+
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+
+&lt;/script&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Something…&lt;/p&gt;</content><author><name>Léa Fleury</name></author><category term="tests" /><summary type="html">This is a Gallery.</summary></entry></feed>
